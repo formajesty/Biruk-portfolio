@@ -9,6 +9,6 @@ export default defineConfig({
     tailwindcss(),
 
   ],
-  base: "/Biruk-Portfolio"
+  base: "/"
   
 })

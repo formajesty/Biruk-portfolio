@@ -14,7 +14,7 @@ import {
 import photo from "../public/picture.jpg"
 
 
-const CV_HREF = './assets/Biruk Mesfin CV.pdf';
+const CV_HREF = '../public/Biruk Mesfin CV.pdf';
 const CV_DOWNLOAD_NAME = 'Biruk-Mesfin-CV.pdf';
 const PROFILE_IMAGE_SRC = photo
 const PROFILE_IMAGE_ALT = 'Biruk Mesfin';

@@ -12,9 +12,10 @@ import {
 } from 'lucide-react';
 
 import photo from "../public/picture.jpg"
+import Cv from "../public/Biruk Mesfin CV .docx"
 
 
-const CV_HREF = 'Biruk Mesfin CV .docx';
+const CV_HREF = Cv;
 const CV_DOWNLOAD_NAME = 'Biruk-Mesfin-CV.pdf';
 const PROFILE_IMAGE_SRC = photo
 const PROFILE_IMAGE_ALT = 'Biruk Mesfin';
